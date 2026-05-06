@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "Sistema de contenido veterinario",
   "main": "server.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
-    "dev": "npm run server",
-    "server": "node server.js",
-    "start": "npm run server",
-    "build": "echo 'No build needed'"
+  "start": "npm run server",
+  "server": "node server.js",
+  "dev": "npm run server",
+  "build": "echo 'Static deployment'",
+  "test": "echo \"Error: no test specified\" && exit 1"
+}
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.28.0",
