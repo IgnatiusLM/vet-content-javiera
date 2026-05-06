@@ -1,0 +1,329 @@
+{
+  "veterinary_clinic": {
+    "name": "Dra. Javiera Montoya M.",
+    "tagline": "VETERINARIA A DOMICILIO",
+    "slogan": "Confianza que entra a tu casa",
+    "founded": 2026,
+    "location": "Santiago Oriente, Chile",
+    "coverage_zones": [
+      "Las Condes",
+      "Vitacura",
+      "Providencia",
+      "Ñuñoa",
+      "La Reina",
+      "Lo Barnechea"
+    ],
+    "positioning": "Firma personal de salud veterinaria de alta confianza — no una cadena ni una clínica genérica. El nombre propio es el activo central de la marca.",
+    "brand_promise": "Atención veterinaria de calidad, con calidez profesional, en la seguridad del hogar del cliente.",
+    
+    "colors": {
+      "primary": {
+        "name": "Verde Menta",
+        "hex": "#1A9E80",
+        "rgb": "26, 158, 128",
+        "usage": "Logo, tipografía principal, íconos, elementos gráficos principales",
+        "psychology": "Diferencia de azul/verde oscuro típico de clínicas. Comunica bienestar, naturaleza, hogar"
+      },
+      "dark": {
+        "name": "Verde Noche",
+        "hex": "#2C3E35",
+        "rgb": "44, 62, 53",
+        "usage": "Texto de cuerpo, subtítulos en materiales impresos"
+      },
+      "light_background": {
+        "name": "Menta Pálido",
+        "hex": "#E4F7F2",
+        "rgb": "228, 247, 242",
+        "usage": "Fondo principal de posts, carruseles y materiales"
+      },
+      "warm_background": {
+        "name": "Crema Cálido",
+        "hex": "#F6EDE0",
+        "rgb": "246, 237, 224",
+        "usage": "Fondo alternativo para stories y piezas estacionales"
+      },
+      "accent": {
+        "name": "Terracota",
+        "hex": "#E07A5C",
+        "rgb": "224, 122, 92",
+        "usage": "Huellas del logo, subtítulo 'Veterinaria a domicilio', CTAs emocionales",
+        "note": "Único color cálido. Uso moderado y consistente"
+      }
+    },
+    
+    "typography": {
+      "primary_font": {
+        "name": "Cormorant Garamond",
+        "type": "Serif",
+        "usage": "Nombre de la Dra., titulares, 'Veterinaria a domicilio', firma",
+        "weight_regular": "Regular",
+        "weight_bold": "Bold",
+        "psychology": "Comunica profesionalismo elegante, trayectoria, confianza personal",
+        "source": "Google Fonts (gratuita)",
+        "rule": "La voz de la Dra. Javiera — aparece donde ella habla directamente"
+      },
+      "secondary_font": {
+        "name": "DM Sans",
+        "type": "Sans-serif",
+        "usage": "Subtítulos, cuerpo de texto, captions Instagram, instrucciones",
+        "weight_regular": "Regular",
+        "weight_medium": "Medium",
+        "weight_bold": "Bold",
+        "psychology": "Moderna, accesible, legible en pantallas pequeñas",
+        "source": "Google Fonts (gratuita)",
+        "rule": "La voz operativa — aparece donde se informa, instruye o describe"
+      },
+      "hierarchy": {
+        "headline": {
+          "font": "Cormorant Garamond Bold",
+          "size": "36-48px",
+          "color": "#1A9E80",
+          "line_height": "1.2"
+        },
+        "subheadline": {
+          "font": "DM Sans Medium",
+          "size": "18-24px",
+          "color": "#2C3E35",
+          "line_height": "1.3"
+        },
+        "body": {
+          "font": "DM Sans Regular",
+          "size": "14-16px",
+          "color": "#2C3E35",
+          "line_height": "1.5"
+        },
+        "labels": {
+          "font": "DM Sans Bold",
+          "size": "12-14px",
+          "text_transform": "uppercase",
+          "letter_spacing": "1.2px",
+          "color": "#E07A5C"
+        }
+      }
+    },
+    
+    "logo_system": {
+      "logo_square": {
+        "filename": "Logo_Cuadrado.png",
+        "official_size": "6250x6250px",
+        "use_cases": [
+          "Foto de perfil Instagram (mínimo 1080x1080px)",
+          "Foto de perfil WhatsApp Business (mínimo 500x500px)",
+          "Marca de agua en fotografías (40-60% opacidad)",
+          "Sello en documentos",
+          "Firma de email (80-120px ancho)"
+        ],
+        "min_size_digital": "80x80px",
+        "ratio": "1:1",
+        "background": "Fondo verde menta #1A9E80 (recomendado)"
+      },
+      "logo_horizontal": {
+        "filename": "Logotipogra_fico.png",
+        "official_size": "6000x3375px",
+        "use_cases": [
+          "Encabezado de flyer A5 (mínimo 300px ancho)",
+          "Portada de carrusel Instagram",
+          "Cabecera de WhatsApp Business",
+          "Banner digital horizontal",
+          "Firma de email (mínimo 300px ancho)"
+        ],
+        "min_size_digital": "300px",
+        "ratio": "16:9",
+        "background": "Fondos claros (menta pálido, crema o blanco)"
+      },
+      "restrictions": [
+        "Proporciones siempre respetadas. No deformar ni estirar",
+        "No cambiar colores, fuentes ni posición de elementos",
+        "No añadir sombras, bordes, efectos ni marcos",
+        "No crear versiones en otros colores",
+        "No separar elementos del logotipo",
+        "Solo usar archivos originales PNG"
+      ]
+    },
+    
+    "tone_of_voice": {
+      "personality": "Profesional de confianza que también es persona: cálida, directa, sin tecnicismos innecesarios",
+      "core_values": [
+        "Confianza",
+        "Calidez profesional",
+        "Bienestar de la mascota",
+        "Cuidado personalizado",
+        "Eficiencia",
+        "Autoridad clínica"
+      ],
+      "communication_style": {
+        "should_do": [
+          "Hablar en primera persona cuando la Dra. es quien habla: 'Hoy atendí a Max en su casa…'",
+          "Usar el nombre propio de la mascota cuando es posible",
+          "Frases cortas y directas",
+          "Sin jerga médica densa e innecesaria",
+          "Calidez sin exceso de diminutivos",
+          "Autoridad clínica sin perder humanidad",
+          "Enfoque en el bienestar de la mascota y su familia"
+        ],
+        "should_not_do": [
+          "Urgencia de venta: '¡Llama ya! ¡Últimos cupos!'",
+          "Jerga clínica sin contexto",
+          "Lenguaje infantilizado",
+          "Frialdad clínica",
+          "Presión comercial descarada",
+          "Promesas exageradas"
+        ]
+      },
+      "messaging_themes": [
+        "Historias reales de mascotas atendidas",
+        "Consejos prácticos de salud veterinaria",
+        "Educación sobre cuidados preventivos",
+        "Casos exitosos con antes/después",
+        "Tips de bienestar animal",
+        "Comportamiento felino y canino",
+        "Nutrición y alimentación",
+        "Primeros auxilios",
+        "Experiencia personal de la Dra."
+      ]
+    },
+    
+    "social_media": {
+      "primary_channels": [
+        "Instagram",
+        "WhatsApp Business"
+      ],
+      "instagram": {
+        "handle": "@dra.javiera.montoya",
+        "profile_photo": "Logo_Cuadrado.png (1080x1080px mínimo)",
+        "bio_template": "Veterinaria a domicilio | Santiago Oriente 🏥 | Atención personalizada | Link a WhatsApp",
+        "post_formats": {
+          "feed_square": "1:1 (1080x1080px)",
+          "feed_vertical": "4:5 (1080x1350px)",
+          "stories": "9:16 (1080x1920px)",
+          "reels": "9:16 (1080x1920px) — 30-60 segundos"
+        },
+        "content_backgrounds": [
+          "#E4F7F2 (Menta pálido)",
+          "#F6EDE0 (Crema cálido)",
+          "Fotografías reales con logo discreto"
+        ],
+        "best_practices": [
+          "Logo cuadrado en esquina inferior derecha (discreto)",
+          "Tipografía: Cormorant Garamond (titulares), DM Sans (cuerpo)",
+          "Máximo 3 colores de la paleta por pieza",
+          "Reels con la Dra. en cámara tienen mayor engagement",
+          "Captions siempre activados en Reels",
+          "Horarios óptimos: 6-7 AM, 12-1 PM, 6-7 PM, 9-10 PM"
+        ],
+        "content_pillars": [
+          "Primeros auxilios veterinarios (Alto engagement)",
+          "Consejos de salud (Educativo)",
+          "Comportamiento animal (Entretenido)",
+          "Historias de pacientes (Alto engagement)",
+          "Tips de cuidado por raza (Práctico)",
+          "Nutrición (Educativo)",
+          "Hitos profesionales de la Dra. (Autoridad)"
+        ]
+      },
+      "whatsapp_business": {
+        "profile_photo": "Logo_Cuadrado.png (500x500px mínimo)",
+        "business_name": "Dra. Javiera Montoya · Veterinaria a domicilio",
+        "welcome_message_tone": "Cálido y personal, siempre mencionar el nombre de la Dra.",
+        "catalog_background": "#F6EDE0 (Crema cálido)"
+      }
+    },
+    
+    "target_audience": {
+      "primary": {
+        "age_range": "30-50 años",
+        "gender": "Predominantemente mujeres",
+        "occupation": "Profesionales independientes",
+        "location": "Departamentos en Santiago Oriente",
+        "values": "Conveniencia, calidad, eficiencia, confianza personal",
+        "decision_drivers": "Decisión basada en confianza en la persona, no solo institución"
+      },
+      "secondary": {
+        "age_range": "50+ años",
+        "characteristics": "Adultos mayores con movilidad limitada",
+        "values": "Confianza, lealtad a largo plazo, trato cálido",
+        "relationship_with_pets": "Vínculo emocional fuerte"
+      }
+    },
+    
+    "hashtag_strategy": {
+      "must_include": [
+        "#DraJavieraMontoya",
+        "#VeterinariaDomicilio",
+        "#VeterinariaSantiago"
+      ],
+      "branded": [
+        "#ConfianzaQueEntraATuCasa",
+        "#DesdeVeterinariaDomicilio"
+      ],
+      "content_pillars": [
+        "#VeterinariaTips",
+        "#SaludDelPet",
+        "#ConsejosVeterinarios",
+        "#DesdeVeterinaria",
+        "#MascotasFelices",
+        "#PerrosSanos",
+        "#GatosFelices"
+      ],
+      "engagement_focused": [
+        "#VeterinariaEnCasa",
+        "#AtencionPersonalizada",
+        "#ConfianzaVeterinaria",
+        "#BienestarAnimal",
+        "#CuidadosPet"
+      ],
+      "avoid": [
+        "#CheapVet",
+        "#QuickFix",
+        "Hashtags genéricos sin contexto"
+      ],
+      "total_per_post": "12-15 hashtags (mezclar branded + content + engagement)"
+    },
+    
+    "design_principles": {
+      "principle_1": {
+        "title": "Confianza visual",
+        "description": "Cada elemento debe comunicar calidez profesional, nunca frialdad clínica. Fondos cálidos, tipografía elegante, uso moderado de color."
+      },
+      "principle_2": {
+        "title": "Consistencia cromática",
+        "description": "Usar solo la paleta definida. Cambiar o agregar colores destruye el reconocimiento acumulado de marca."
+      },
+      "principle_3": {
+        "title": "Jerarquía clara",
+        "description": "El nombre 'Dra. Javiera Montoya M.' es siempre el elemento visual dominante. Todo lo demás es apoyo."
+      },
+      "principle_4": {
+        "title": "Modernidad elegante",
+        "description": "Serif (Cormorant) para la voz personal + Sans-serif (DM Sans) para operativa. Sin bordes, sin exceso decorativo."
+      },
+      "principle_5": {
+        "title": "Contenido real > Diseño genérico",
+        "description": "Fotografías reales de atenciones y la Dra. en cámara tienen mayor impacto que diseños teóricos."
+      }
+    },
+    
+    "content_creation_guidelines": {
+      "for_claude_ai": "Eres creador de contenido para Dra. Javiera Montoya M., veterinaria que ofrece atención a domicilio en Santiago Oriente. Tu marca se posiciona como una firma personal de confianza. Genera contenido que: (1) hable con calidez profesional, sin jerga médica innecesaria; (2) use el nombre de la Dra. con autoridad; (3) enfoque en bienestar de mascota y familia; (4) incluya historias reales cuando sea posible; (5) eduque sin presionar; (6) inspire confianza, no urgencia de venta.",
+      "caption_guidelines": "Captions deben evocar la voz de la Dra. — confianza, experiencia, cuidado personal. Incluir nombre de mascotas reales cuando es posible. Usar emojis de pata (#🐾) y corazón (#❤️) con moderación. CTA natural: 'Cuéntame en comentarios' o 'Escríbeme por WhatsApp' en lugar de 'Llama ya'.",
+      "emoji_palette": [
+        "🐾",
+        "❤️",
+        "🏥",
+        "✨",
+        "💚",
+        "🐶",
+        "🐱",
+        "🏠",
+        "📱"
+      ],
+      "avoid_emojis": [
+        "💥",
+        "⚡",
+        "🔥",
+        "⏰",
+        "🚨"
+      ]
+    }
+  }
+}
