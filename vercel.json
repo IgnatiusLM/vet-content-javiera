@@ -1,6 +1,22 @@
 {
-  "buildCommand": "npm run build",
-  "outputDirectory": "public",
-  "installCommand": "npm install",
-  "framework": "other"
+  "version": 2,
+  "builds": [
+    {
+      "src": "server.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "public/**",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "server.js"
+    }
+  ],
+  "env": {
+    "ANTHROPIC_API_KEY": "@anthropic_api_key"
+  }
 }
