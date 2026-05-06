@@ -1,24 +1,27 @@
 {
   "name": "vet-content-flow",
   "version": "1.0.0",
-  "description": "Sistema de contenido veterinario",
+  "description": "Sistema de contenido veterinario para Dra. Javiera Montoya",
   "main": "server.js",
   "type": "commonjs",
   "scripts": {
-  "start": "npm run server",
-  "server": "node server.js",
-  "dev": "npm run server",
-  "build": "echo 'Static deployment'",
-  "test": "echo \"Error: no test specified\" && exit 1"
-}
+    "start": "node server.js",
+    "server": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'Static deployment'"
   },
+  "keywords": [
+    "veterinaria",
+    "instagram",
+    "automatizacion"
+  ],
+  "author": "Dra. Javiera Montoya",
+  "license": "MIT",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.28.0",
     "express": "^4.18.2",
     "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "node-schedule": "^2.1.1",
-    "axios": "^1.7.0"
+    "dotenv": "^16.4.5"
   },
   "engines": {
     "node": ">=16.0.0",
